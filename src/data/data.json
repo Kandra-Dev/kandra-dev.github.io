@@ -1,0 +1,173 @@
+{
+  "Header": {
+    "title": "We are Kandra",
+    "paragraph": "We develop software. We fulfill our contracts."
+  },
+  "About": {
+    "paragraph": "We are a group of experienced software developers that got togheter by reading books. Kandra is an idea that arises from the concept of adapting and following the contract. As in Brandon Sanderson's books (The Mistborn Saga) the Kandra race is specially known for following contracts no matter what the cost, and adapting their physical bodies to take on different appearances. We took that idea and created a software development company that follows these two principles to better serve our clients. We adapt. We fullfill.",
+    "Why": [
+      "We are driven, passionate developers",
+      "We cover a lot of different technologies",
+      "We adapt to your needs",
+      "We follow our contract"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fab fa-react",
+      "name": "ReactJS"
+    },
+    {
+      "icon": "fab fa-apple",
+      "name": "iOS"
+    },
+    {
+      "icon": "fab fa-python",
+      "name": "Python"
+    },
+    {
+      "icon": "fab fa-rust",
+      "name": "Rust"
+    },
+    {
+      "icon": "fab fa-node-js",
+      "name": "NodeJS"
+    },
+    {
+      "icon": "fab fa-vuejs",
+      "name": "VueJS"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Martin Piven",
+      "job": "CO-FOUNDER",
+      "linkedIn": "https://www.linkedin.com/in/martin-piven-uy/"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Gabriel Madruga",
+      "job": "CO-FOUNDER",
+      "linkedIn": "https://www.linkedin.com/in/gabrielmadruga/"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Nicolas Reyes",
+      "job": "CO-FOUNDER",
+      "linkedIn": "https://www.linkedin.com/in/nicolas-reyes-scaiano-7b3700208/"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Fabio Ardus",
+      "job": "CO-FOUNDER",
+      "linkedIn": "https://www.linkedin.com/in/fabio-ardus/"
+    }
+  ],
+  "Contact": {
+    "address": "Montevideo, Uruguay",
+    "phone": "xxx xxx xxx",
+    "email": "hello@kandra.dev"
+  },
+  "Features": [
+    {
+      "icon": "fas fa-random",
+      "title": "We Adapt",
+      "text": "It does not matter what technologies you need, we can adapt to you'r needs."
+    },
+    {
+      "icon": "fas fa-scroll",
+      "title": "We follow our contract",
+      "text": "We care about your project and you'r initial vision for it."
+    },
+    {
+      "icon": "fas fa-dumbbell",
+      "title": "Expertise",
+      "text": "We have a team of highly trained developers in different areas, making any "
+    },
+    {
+      "icon": "fas fa-comments",
+      "title": "Comunication",
+      "text": "We constantly communicate with our clients to ensure the quality and expectations of our services."
+    }
+  ]
+}

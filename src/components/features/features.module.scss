@@ -1,0 +1,26 @@
+.wrapper{
+    display: flex;
+    min-height: 500px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+    .container {
+        margin: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+
+        .boxContainer{
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+
+            .itemBox{
+                width: 200px; 
+                margin: 20px 40px;
+            }
+        }
+    }
+}
