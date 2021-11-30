@@ -1,4 +1,6 @@
 .topNav {
+  background-color: #ffffff; // copied from white transition
+  box-shadow: -12px -13px 7px 9px black; // copied from white transition
   overflow: hidden;
   position: fixed;
   z-index: 2;
@@ -9,7 +11,7 @@
   a {
     float: left;
     display: block;
-    color: midnightblue;
+    color: #5E98FC;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
