@@ -107,7 +107,7 @@ export default function Contact(props) {
             <div className="contact-item">
               <p>
                 <span>
-                  <i className="fa fa-phone"></i> Phone
+                  <i className="fas fa-phone-alt"></i> Phone
                 </span>{" "}
                 {props.data ? props.data.phone : "loading"}
               </p>
@@ -115,7 +115,7 @@ export default function Contact(props) {
             <div className="contact-item">
               <p>
                 <span>
-                  <i className="fa fa-envelope-o"></i> Email
+                  <i className="fas fa-envelope"></i> Email
                 </span>{" "}
                 {props.data ? props.data.email : "loading"}
               </p>

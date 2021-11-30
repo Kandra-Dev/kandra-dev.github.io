@@ -11,9 +11,11 @@ export default function Team(props) {
           {props.data
             ? props.data.map((d, i) => (
                 <div key={`${d.name}-${i}`}>
-                  <div className={styles.imageContainer}>
+                  <div className={styles.imageDataContainer}>
                     {" "}
-                    <img src={d.img} alt="..." className={styles.teamImage} />
+                    <div className={styles.imageContainer}>
+                      <img src={d.img} alt="..." className={styles.teamImage} />
+                    </div>
                     <div>
                       <h4>{d.name}</h4>
                       <p>{d.job}</p>

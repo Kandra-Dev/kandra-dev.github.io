@@ -10,16 +10,26 @@
     flex-wrap: wrap;
     justify-content: center;
 
-    .imageContainer {
+    .imageDataContainer {
       margin: 10px;
       display: flex;
       flex-direction: column;
       justify-content: space-between;
       height: 330px;
 
-      .teamImage {
-        max-width: 100%;
+      .imageContainer {
+        height: 240px;
         width: 240px;
+
+        .teamImage {
+          height: 100%;
+          width: 100%;
+          object-fit: cover;
+
+          &:first-child {
+            object-position: top;
+          }
+        }
       }
 
       a {

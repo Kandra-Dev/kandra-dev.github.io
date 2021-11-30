@@ -4,7 +4,7 @@
     "paragraph": "We develop software. We fulfill our contracts."
   },
   "About": {
-    "paragraph": "We are a group of experienced software developers that got togheter by reading books. Kandra is an idea that arises from the concept of adapting and following the contract. As in Brandon Sanderson's books (The Mistborn Saga) the Kandra race is specially known for following contracts no matter what the cost, and adapting their physical bodies to take on different appearances. We took that idea and created a software development company that follows these two principles to better serve our clients. We adapt. We fullfill.",
+    "paragraph": "We are a group of experienced software developers that got together by reading books. Kandra is an idea that arises from the concept of adapting and following the contract. As in Brandon Sanderson's books (The Mistborn Saga) the Kandra race is specially known for following contracts no matter what the cost, and adapting their physical bodies to take on different appearances. We took that idea and created a software development company that follows these two principles to better serve our clients. We adapt. We fullfill.",
     "Why": [
       "We are driven, passionate developers",
       "We cover a lot of different technologies",
@@ -119,25 +119,25 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
+      "img": "img/team/MartinPic.jpg",
       "name": "Martin Piven",
       "job": "CO-FOUNDER",
       "linkedIn": "https://www.linkedin.com/in/martin-piven-uy/"
     },
     {
-      "img": "img/team/02.jpg",
+      "img": "img/team/GabrielPic.png",
       "name": "Gabriel Madruga",
       "job": "CO-FOUNDER",
       "linkedIn": "https://www.linkedin.com/in/gabrielmadruga/"
     },
     {
-      "img": "img/team/03.jpg",
+      "img": "img/team/NicoPic.jpeg",
       "name": "Nicolas Reyes",
       "job": "CO-FOUNDER",
       "linkedIn": "https://www.linkedin.com/in/nicolas-reyes-scaiano-7b3700208/"
     },
     {
-      "img": "img/team/04.jpg",
+      "img": "img/team/FabioPic.png",
       "name": "Fabio Ardus",
       "job": "CO-FOUNDER",
       "linkedIn": "https://www.linkedin.com/in/fabio-ardus/"
@@ -152,12 +152,12 @@
     {
       "icon": "fas fa-random",
       "title": "We Adapt",
-      "text": "It does not matter what technologies you need, we can adapt to you'r needs."
+      "text": "It does not matter what technologies you need, we can adapt to your needs."
     },
     {
       "icon": "fas fa-scroll",
       "title": "We follow our contract",
-      "text": "We care about your project and you'r initial vision for it."
+      "text": "We care about your project and your initial vision for it."
     },
     {
       "icon": "fas fa-dumbbell",

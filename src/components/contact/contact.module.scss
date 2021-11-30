@@ -7,4 +7,9 @@
   max-width: 1320px;
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
+
+  & > div {
+    margin: 20px;
+  }
 }
