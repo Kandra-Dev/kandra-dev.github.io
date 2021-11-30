@@ -119,33 +119,33 @@
   ],
   "Team": [
     {
-      "img": "img/team/MartinPic.jpg",
-      "name": "Martin Piven",
-      "job": "CO-FOUNDER",
-      "linkedIn": "https://www.linkedin.com/in/martin-piven-uy/"
-    },
-    {
       "img": "img/team/GabrielPic.png",
       "name": "Gabriel Madruga",
-      "job": "CO-FOUNDER",
+      "job": "CEO & CO-FOUNDER",
       "linkedIn": "https://www.linkedin.com/in/gabrielmadruga/"
+    },
+    {
+      "img": "img/team/MartinPic.jpg",
+      "name": "Martin Piven",
+      "job": "CFO & CO-FOUNDER",
+      "linkedIn": "https://www.linkedin.com/in/martin-piven-uy/"
     },
     {
       "img": "img/team/NicoPic.jpeg",
       "name": "Nicolas Reyes",
-      "job": "CO-FOUNDER",
+      "job": "CTO & CO-FOUNDER",
       "linkedIn": "https://www.linkedin.com/in/nicolas-reyes-scaiano-7b3700208/"
     },
     {
       "img": "img/team/FabioPic.png",
       "name": "Fabio Ardus",
-      "job": "CO-FOUNDER",
+      "job": "COO & CO-FOUNDER",
       "linkedIn": "https://www.linkedin.com/in/fabio-ardus/"
     }
   ],
   "Contact": {
-    "address": "Montevideo, Uruguay",
-    "phone": "xxx xxx xxx",
+    "address": "Dr. Mario Cassinoni 1643, Montevideo, Uruguay",
+    "phone": "+598 98 03 55 20",
     "email": "hello@kandra.dev"
   },
   "Features": [
