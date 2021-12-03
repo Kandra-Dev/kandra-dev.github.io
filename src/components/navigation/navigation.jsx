@@ -22,7 +22,7 @@ export default function Navigation(props) {
   return (
     <div className={styles.navWrapper} id="home">
       <a href="#home">
-        <img src={"img/kandraLogo.png"} alt="Kandra Logo" />
+        <img src={"img/kandraLogo.svg"} alt="Kandra Logo" />
       </a>
       <div
         className={
