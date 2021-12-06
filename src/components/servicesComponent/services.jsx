@@ -4,7 +4,7 @@ export default function Services(props) {
       <div className="container">
         <div className="section-title">
           <h2>Our Services</h2>
-          <p>These are some of the technologies we work with</p>
+          <p>These are some of the services we include in our contracts</p>
         </div>
         <div className="row">
           {props.data

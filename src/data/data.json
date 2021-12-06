@@ -61,6 +61,20 @@
   ],
   "Services": [
     {
+      "icon": "fas fa-mobile-alt",
+      "name": "Mobile Development"
+    },
+    {
+      "icon": "fas fa-laptop-code",
+      "name": "Web Development"
+    },
+    {
+      "icon": "fas fa-users",
+      "name": "Staff Augmentation"
+    }
+  ],
+  "Technologies": [
+    {
       "icon": "fab fa-react",
       "name": "ReactJS"
     },
@@ -121,25 +135,25 @@
     {
       "img": "img/team/GabrielPic.png",
       "name": "Gabriel Madruga",
-      "job": "CEO & CO-FOUNDER",
+      "job": "CO-FOUNDER - TEAM LEADER",
       "linkedIn": "https://www.linkedin.com/in/gabrielmadruga/"
     },
     {
       "img": "img/team/MartinPic.jpg",
       "name": "Martin Piven",
-      "job": "CFO & CO-FOUNDER",
+      "job": "CO-FOUNDER - PROJECT MANAGER",
       "linkedIn": "https://www.linkedin.com/in/martin-piven-uy/"
     },
     {
       "img": "img/team/NicoPic.jpeg",
       "name": "Nicolas Reyes",
-      "job": "CTO & CO-FOUNDER",
+      "job": "CO-FOUNDER - DEVELOPER",
       "linkedIn": "https://www.linkedin.com/in/nicolas-reyes-scaiano-7b3700208/"
     },
     {
       "img": "img/team/FabioPic.png",
       "name": "Fabio Ardus",
-      "job": "COO & CO-FOUNDER",
+      "job": "CO-FOUNDER - DEVELOPER ",
       "linkedIn": "https://www.linkedin.com/in/fabio-ardus/"
     }
   ],
