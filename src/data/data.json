@@ -1,7 +1,7 @@
 {
   "Header": {
     "title": "We are Kandra",
-    "paragraph": "We develop software. We fulfill our contracts."
+    "paragraph": "We adapt to your project. We fulfill our contracts."
   },
   "About": {
     "paragraph": "We are a group of experienced software developers that got together by reading books. Kandra is an idea that arises from the concept of adapting and following the contract. As in Brandon Sanderson's books (The Mistborn Saga) the Kandra race is specially known for following contracts no matter what the cost, and adapting their physical bodies to take on different appearances. We took that idea and created a software development company that follows these two principles to better serve our clients. We adapt. We fullfill.",
@@ -87,16 +87,8 @@
       "name": "Python"
     },
     {
-      "icon": "fab fa-rust",
-      "name": "Rust"
-    },
-    {
       "icon": "fab fa-node-js",
       "name": "NodeJS"
-    },
-    {
-      "icon": "fab fa-vuejs",
-      "name": "VueJS"
     }
   ],
   "Testimonials": [
@@ -145,12 +137,6 @@
       "linkedIn": "https://www.linkedin.com/in/martin-piven-uy/"
     },
     {
-      "img": "img/team/NicoPic.jpeg",
-      "name": "Nicolas Reyes",
-      "job": "CO-FOUNDER - DEVELOPER",
-      "linkedIn": "https://www.linkedin.com/in/nicolas-reyes-scaiano-7b3700208/"
-    },
-    {
       "img": "img/team/FabioPic.png",
       "name": "Fabio Ardus",
       "job": "CO-FOUNDER - DEVELOPER ",
@@ -176,7 +162,7 @@
     {
       "icon": "fas fa-dumbbell",
       "title": "Expertise",
-      "text": "We have a team of highly trained developers in different areas, making any "
+      "text": "We have a team of highly trained developers in many different areas."
     },
     {
       "icon": "fas fa-comments",
