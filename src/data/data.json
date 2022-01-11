@@ -127,19 +127,19 @@
     {
       "img": "img/team/GabrielPic.png",
       "name": "Gabriel Madruga",
-      "job": "CO-FOUNDER - TEAM LEADER",
+      "job": "CO-FOUNDER",
       "linkedIn": "https://www.linkedin.com/in/gabrielmadruga/"
     },
     {
       "img": "img/team/MartinPic.jpg",
       "name": "Martin Piven",
-      "job": "CO-FOUNDER - PROJECT MANAGER",
+      "job": "CO-FOUNDER",
       "linkedIn": "https://www.linkedin.com/in/martin-piven-uy/"
     },
     {
       "img": "img/team/FabioPic.png",
       "name": "Fabio Ardus",
-      "job": "CO-FOUNDER - DEVELOPER ",
+      "job": "CO-FOUNDER",
       "linkedIn": "https://www.linkedin.com/in/fabio-ardus/"
     }
   ],

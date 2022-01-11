@@ -19,7 +19,7 @@ export default function Team(props) {
                     <div>
                       <h4>{d.name}</h4>
                       <p>{d.job}</p>
-                      <a href={d.linkedIn}>
+                      <a rel="noreferrer" target="_blank" href={d.linkedIn}>
                         <i className="fab fa-linkedin"></i>
                       </a>
                     </div>
